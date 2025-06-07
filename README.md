@@ -1,3 +1,5 @@
+<img src="https://i.pinimg.com/originals/7c/ac/53/7cac53b96635b5ad0684f99d95de1bbf.gif" jsaction="" class="sFlh5c FyHeAf iPVvYb" style="max-width: 800px; height: 329px; margin: 0px; width: 1005px;" alt="Hello World!" jsname="kn3ccd">
+
 <h1 align="center">Hi 👋, I'm Eklavya Sahani</h1>
 <h3 align="center">A Passionate Software & Frontend Developer from India | Crafting seamless user experiences and scalable solutions</h3>
 
@@ -32,4 +34,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=eklavya-sahani&show_icons=true&locale=en" alt="eklavya-sahani" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=eklavya-sahani&" alt="eklavya-sahani" /></p>
+
+
 
